@@ -3,6 +3,6 @@
 @media(max-width:800px){nav{gap:13px}nav a{font-size:9px}.hero{grid-template-columns:1fr;padding-top:65px}.hero-art{height:330px}.sun{width:260px;height:260px}.hero-product{font-size:170px}.product-grid{grid-template-columns:repeat(2,1fr)}.studio{grid-template-columns:1fr}.preview-wrap{position:relative;top:auto}.section-head{align-items:start;flex-direction:column}.closing{align-items:start;flex-direction:column}.steps{grid-template-columns:1fr}}
 @media(max-width:480px){header{height:65px}.brand{font-size:24px}nav{gap:10px}nav a:nth-child(3){display:none}.nav-pill{font-size:8px;padding:11px}.hero h1{font-size:67px}.hero-art{height:285px}.sticker{width:90px;height:90px;font-size:14px}.product-visual{height:165px}.product-visual span{font-size:78px}.shop,.custom-section,.how{padding-top:70px;padding-bottom:70px}.mockup{height:330px}.mock-shape{font-size:165px}}
 .logo{
-  height:70px;
+  height:60px;
   width:auto;
 }
