@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./style.css";
-import logo from "./logo.png";
+import logo from "./unkool-logo.jpeg (1).jpeg";
 
 const WA = "917447248530";
 const products = [
