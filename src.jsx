@@ -1,6 +1,7 @@
 import React, { useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./style.css";
+import logo from "./logo.png";
 
 const WA = "917447248530";
 const products = [
